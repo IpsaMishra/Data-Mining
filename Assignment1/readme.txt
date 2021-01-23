@@ -30,6 +30,3 @@ https://stackoverflow.com/questions/22027767/understanding-numpy-linalg-norm-in-
 https://matplotlib.org/3.1.0/api/_as_gen/matplotlib.pyplot.imshow.html
 https://towardsdatascience.com/natural-language-processing-feature-engineering-using-tf-idf-e8b9d00e7e76
 https://www.geeksforgeeks.org/analysis-of-test-data-using-k-means-clustering-in-python/
-
-
-I want to use one late day for this assignment
