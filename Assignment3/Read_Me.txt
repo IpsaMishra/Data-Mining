@@ -12,6 +12,3 @@ All the representations from output nodes are also stored in output_files Q6
 
 Reference:
 https://pytorch.org/docs/stable/nn.html
-
-
-I would use 1 late day for this assignment
